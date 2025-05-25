@@ -18,11 +18,11 @@
 
 ## 游戏演示
 
-[选歌界面](Images/Select.png)
-[游戏界面1](Images/俊达派对之夜.png)
-[游戏界面2](Images/KING.png)
-[游戏界面3](Images/Override.png)
-[结算界面](Images/Results.png)
+![选歌界面](Images/Select.png)
+![游戏界面1](Images/俊达派对之夜.png)
+![游戏界面2](Images/KING.png)
+![游戏界面3](Images/Override.png)
+![结算界面](Images/Results.png)
 
 ## 技术规格
 
